@@ -1,0 +1,2 @@
+# nagasaki-soyo-prompt
+
